@@ -303,7 +303,7 @@ width:calc(100vw - 200px);
 height: 100vh;
 padding-top: 80px;
 background-color: rgb(249,249,249);
-z-index: -1;
+z-index: -10;
     .container{
         display: flex;
         justify-content: space-around;
